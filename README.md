@@ -30,3 +30,11 @@ CREATE TABLE `usr_mst_jwt` (
   `USR_PWD` varchar(400) DEFAULT NULL,
   PRIMARY KEY (`USRMSTJWT_ID`)
 );
+
+![RegisterUser](https://user-images.githubusercontent.com/37022051/85830851-f6fce380-b795-11ea-818e-1730c54a4989.png)
+
+
+![Authenticate](https://user-images.githubusercontent.com/37022051/85830887-05e39600-b796-11ea-9611-79d097682589.png)
+
+
+![GetInfo](https://user-images.githubusercontent.com/37022051/85830913-0ed46780-b796-11ea-8f4d-e276a5dc5cb5.png)

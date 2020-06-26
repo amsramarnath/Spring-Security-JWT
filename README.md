@@ -21,3 +21,12 @@ This project includes the 3 Rest API Controllers:
 	Key - Authorization
 	
 	Value - Bearer (JWT token)
+
+DB details:
+
+CREATE TABLE `usr_mst_jwt` (
+  `USRMSTJWT_ID` int(11) NOT NULL AUTO_INCREMENT,
+  `USR_NAME` varchar(400) DEFAULT NULL,
+  `USR_PWD` varchar(400) DEFAULT NULL,
+  PRIMARY KEY (`USRMSTJWT_ID`)
+);

@@ -17,5 +17,7 @@ This project includes the 3 Rest API Controllers:
 	This API is just a dummy method to get the information from the server if the user passes the valid JWT token.
 
 	The user has to pass the JWT in the Header of the request,
+	
 	Key - Authorization
+	
 	Value - Bearer <JWT token>

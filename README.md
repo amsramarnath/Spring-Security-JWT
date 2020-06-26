@@ -1,5 +1,5 @@
 # Spring-Security-JWT
-Spring Boot + Security + JWT + Database Authentication
+## Spring Boot + Security + JWT + Database Authentication
 
 
 This project includes the 3 Rest API Controllers:

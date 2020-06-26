@@ -20,4 +20,4 @@ This project includes the 3 Rest API Controllers:
 	
 	Key - Authorization
 	
-	Value - Bearer <JWT token>
+	Value - Bearer (JWT token)

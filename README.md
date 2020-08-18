@@ -33,5 +33,5 @@ CREATE TABLE `usr_mst_jwt` (
 
 ![Untitled](https://user-images.githubusercontent.com/37022051/85832489-dda96680-b798-11ea-9771-e295b12fcb83.png)
 
-[![HitCount](http://hits.dwyl.com/amsramarnath/Spring-Security-JWT.svg)](http://hits.dwyl.com/amsramarnath/Spring-Security-JWT)
+
 

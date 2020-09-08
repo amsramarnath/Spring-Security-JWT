@@ -1,5 +1,5 @@
 # Spring-Security-JWT
-## Spring boot(Gradle) - Spring Security(Annotations) - JWT - MySql(Authorization,Authentication)
+## Spring boot(Gradle) - Spring Security(Annotations) - JWT - MySql(Authentication,Authorization)
 
 
 This project includes the 3 Rest API Controllers:
